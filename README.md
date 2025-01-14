@@ -54,7 +54,7 @@ python -m birdnet_analyzer.gui
 ```
 
 ## Extended reading
-- [Acoustic analysis with BirdNET and (almost) no coding: practical instructions](https://zenodo.org/records/8357176)
+- [Acoustic analysis with BirdNET and (almost) no coding: practical instructions](https://zenodo.org/records/8415090)
 - [A labelled dataset of the loud calls of four vertebrates collected using passive acoustic monitoring in Malaysian Borneo](https://zenodo.org/records/8356807)
 - [BioacousTalks: Custom Machine Learning Models with BirdNET Analyzer GUI
 ](https://youtu.be/HuEZGIPeyq0?feature=shared&t=1689)
