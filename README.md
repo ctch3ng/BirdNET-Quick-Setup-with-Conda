@@ -53,6 +53,12 @@ Launch the GUI with the command:
 python -m birdnet_analyzer.gui
 ```
 
+## Extended reading
+- [Acoustic analysis with BirdNET and (almost) no coding: practical instructions](https://zenodo.org/records/8357176)
+- [A labelled dataset of the loud calls of four vertebrates collected using passive acoustic monitoring in Malaysian Borneo](https://zenodo.org/records/8356807)
+- [BioacousTalks: Custom Machine Learning Models with BirdNET Analyzer GUI
+](https://youtu.be/HuEZGIPeyq0?feature=shared&t=1689)
+
 ## Notes
 - Ensure your `conda` environment is activated before running any BirdNET commands.
 - Refer to the [official BirdNET Analyzer documentation](https://github.com/kahst/BirdNET-Analyzer) for advanced usage and configuration.
