@@ -5,7 +5,6 @@ This repository provides a quick setup guide for creating a virtual environment 
 ## Prerequisites
 Ensure you have the following installed on your system:
 - [Conda](https://docs.conda.io/en/latest/miniconda.html) (Miniconda or Anaconda)
-- Git
 
 ## Setup Instructions
 
